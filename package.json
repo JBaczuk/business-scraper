@@ -1,0 +1,10 @@
+{
+  "name": "retail_scraper",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "csv-to-array": "*",
+    "googleplaces": "*",
+    "json2csv": "*"
+  }
+}
